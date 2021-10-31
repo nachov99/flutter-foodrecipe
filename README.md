@@ -4,7 +4,7 @@ Screen design of a Food App Flutter.
 
 Design credit - https://dribbble.com/shots/5137623-Food-App-Homepage-Concept/attachments/1133457
 
-How do I code this - https://youtu.be/bmmTY2lHaks
+How did I code this - https://youtu.be/bmmTY2lHaks
 
 ## Screenshot:
 
